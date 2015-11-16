@@ -1,0 +1,243 @@
+{"Students": {"Student": [
+    {
+        "Type": "Both",
+        "Phones": {"Phone": [
+            "213-740-1111",
+            "213-740-1112"
+        ]},
+        "DOB": "1968-04-01",
+        "Gender": "M",
+        "BuildingCodes": {"BuildingCode": [
+            "CFX",
+            "JEP"
+        ]},
+        "SSN": "111-00-1111",
+        "Name": "Rylan"
+    },
+    {
+        "Type": "Both",
+        "Phones": {"Phone": "213-740-2222"},
+        "DOB": "1970-04-01",
+        "Gender": "M",
+        "BuildingCodes": {"BuildingCode": [
+            "RTH",
+            "OHE"
+        ]},
+        "SSN": "111-00-2222",
+        "Name": "Joshua"
+    },
+    {
+        "Type": "Both",
+        "Phones": {"Phone": "213-740-3333"},
+        "DOB": "1969-04-01",
+        "Gender": "F",
+        "BuildingCodes": {"BuildingCode": "RTH"},
+        "SSN": "111-00-3333",
+        "Name": "Allen"
+    },
+    {
+        "Type": "Both",
+        "Phones": {"Phone": [
+            "213-740-4444",
+            "213-740-4445"
+        ]},
+        "DOB": "1985-04-01",
+        "Gender": "M",
+        "BuildingCodes": {"BuildingCode": [
+            "JHH",
+            "REG"
+        ]},
+        "SSN": "111-00-4444",
+        "Name": "Aidan"
+    },
+    {
+        "Type": "Both",
+        "Phones": {"Phone": "213-740-5555"},
+        "DOB": "1982-04-01",
+        "Gender": "M",
+        "BuildingCodes": {"BuildingCode": [
+            "LVY",
+            "VKC",
+            "WPH",
+            "KOH"
+        ]},
+        "SSN": "111-00-5555",
+        "Name": "Aiden"
+    },
+    {
+        "Type": "Master",
+        "Phones": {"Phone": "213-740-6666"},
+        "DOB": "1979-04-01",
+        "Gender": "F",
+        "BuildingCodes": "",
+        "SSN": "111-00-6666",
+        "Name": "Barak"
+    },
+    {
+        "Type": "Master",
+        "Phones": {"Phone": "213-740-7777"},
+        "DOB": "1978-04-01",
+        "Gender": "M",
+        "BuildingCodes": {"BuildingCode": [
+            "LVY",
+            "VKC",
+            "WPH"
+        ]},
+        "SSN": "111-00-7777",
+        "Name": "Basil"
+    },
+    {
+        "Type": "Master",
+        "Phones": {"Phone": [
+            "213-740-8888",
+            "213-740-8889"
+        ]},
+        "DOB": "1975-04-01",
+        "Gender": "F",
+        "BuildingCodes": {"BuildingCode": [
+            "RTH",
+            "SAL",
+            "OHE"
+        ]},
+        "SSN": "111-00-8888",
+        "Name": "Cayden"
+    },
+    {
+        "Type": "Master",
+        "Phones": {"Phone": "213-740-9999"},
+        "DOB": "1972-04-01",
+        "Gender": "M",
+        "BuildingCodes": {"BuildingCode": [
+            "RTH",
+            "SAL"
+        ]},
+        "SSN": "111-00-9999",
+        "Name": "Brendon"
+    },
+    {
+        "Type": "Master",
+        "Phones": {"Phone": "213-740-0000"},
+        "DOB": "1973-04-01",
+        "Gender": "M",
+        "BuildingCodes": "",
+        "SSN": "111-00-0000",
+        "Name": "Nate"
+    },
+    {
+        "Type": "Master",
+        "Phones": {"Phone": "213-741-1111"},
+        "DOB": "1965-04-01",
+        "Gender": "F",
+        "BuildingCodes": {"BuildingCode": [
+            "RTH",
+            "SAL",
+            "OHE"
+        ]},
+        "SSN": "111-11-1111",
+        "Name": "Hannah"
+    },
+    {
+        "Type": "Master",
+        "Phones": {"Phone": "213-741-2222"},
+        "DOB": "1962-04-01",
+        "Gender": "F",
+        "BuildingCodes": {"BuildingCode": [
+            "CFX",
+            "STU",
+            "BKS"
+        ]},
+        "SSN": "111-11-2222",
+        "Name": "Zoe"
+    },
+    {
+        "Type": "Phd",
+        "Phones": {"Phone": "213-741-333"},
+        "DOB": "1963-04-01",
+        "Gender": "M",
+        "BuildingCodes": "",
+        "SSN": "111-11-3333",
+        "Name": "Alexis"
+    },
+    {
+        "Type": "Phd",
+        "Phones": {"Phone": "213-741-4444"},
+        "DOB": "1975-04-01",
+        "Gender": "F",
+        "BuildingCodes": {"BuildingCode": [
+            "KOH",
+            "CFX",
+            "SAL"
+        ]},
+        "SSN": "111-11-4444",
+        "Name": "Madison"
+    },
+    {
+        "Type": "Phd",
+        "Phones": {"Phone": "213-741-5555"},
+        "DOB": "1976-04-01",
+        "Gender": "M",
+        "BuildingCodes": {"BuildingCode": "CFX"},
+        "SSN": "111-11-5555",
+        "Name": "Adalgisa"
+    },
+    {
+        "Type": "Phd",
+        "Phones": {"Phone": [
+            "213-741-6666",
+            "213-741-6667"
+        ]},
+        "DOB": "1977-04-01",
+        "Gender": "M",
+        "BuildingCodes": {"BuildingCode": [
+            "CFX",
+            "KOH"
+        ]},
+        "SSN": "111-11-6666",
+        "Name": "Cora"
+    },
+    {
+        "Type": "Phd",
+        "Phones": {"Phone": "213-741-7777"},
+        "DOB": "1982-04-01",
+        "Gender": "F",
+        "BuildingCodes": "",
+        "SSN": "111-11-7777",
+        "Name": "Adalia"
+    },
+    {
+        "Type": "Phd",
+        "Phones": {"Phone": [
+            "213-741-8888",
+            "213-741-8889"
+        ]},
+        "DOB": "1983-04-01",
+        "Gender": "F",
+        "BuildingCodes": {"BuildingCode": [
+            "RTH",
+            "OHE"
+        ]},
+        "SSN": "111-11-8888",
+        "Name": "Ava"
+    },
+    {
+        "Type": "Phd",
+        "Phones": {"Phone": "213-741-9999"},
+        "DOB": "1986-04-01",
+        "Gender": "M",
+        "BuildingCodes": {"BuildingCode": "RTH"},
+        "SSN": "111-11-9999",
+        "Name": "Celia"
+    },
+    {
+        "Type": "Phd",
+        "Phones": {"Phone": "213-741-0000"},
+        "DOB": "1983-04-01",
+        "Gender": "F",
+        "BuildingCodes": {"BuildingCode": [
+            "SAL",
+            "EEB"
+        ]},
+        "SSN": "111-11-0000",
+        "Name": "Zaida"
+    }
+]}}

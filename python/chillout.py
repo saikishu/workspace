@@ -10,7 +10,7 @@ import ctypes
 
 total_hours = 24
 frequency_in_hours = 2
-elapsed_hours = 0;
+elapsed_hours = 0
 
 MB_OK = 0x0
 

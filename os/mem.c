@@ -1,4 +1,7 @@
 //Simple program that accesses memory
+//To see in action : disable address space randomization of os
+//Ref: https://en.wikipedia.org/wiki/Address_space_layout_randomization
+
 #include <unistd.h>
 #include <stdio.h>
 #include <stdlib.h>

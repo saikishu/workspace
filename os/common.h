@@ -7,6 +7,7 @@ Common header file
 
 #include <sys/time.h>
 #include <assert.h>
+
 //Get the time
 double
 getTime()
@@ -26,5 +27,7 @@ Spin(int timeinsecs)
   double t = getTime();
   while((getTime() - t)  < timeinsecs) ; //do nothing
 }
+
+//
 
 #endif
